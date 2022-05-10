@@ -1,4 +1,4 @@
-# Unsupervised_nlp_K-means_ocr
+# Unsupervised nlp K-means ocr
 Unsupervised text classification (OCR data) using k-means with 100% accuracy. 
 
 Objective:
